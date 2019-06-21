@@ -1,1 +1,1 @@
-worker: node bot.js drifterbot
+worker: node bot.js
