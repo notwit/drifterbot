@@ -1,7 +1,7 @@
 {
   "name": "drifter-bot",
   "version": "0.0.1",
-  "main": "bot.js", drifterbot
+  "main": "bot.js",
   "scripts": {
     "start": "node bot.js"
   },
